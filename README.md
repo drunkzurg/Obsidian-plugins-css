@@ -1,8 +1,12 @@
 >The elements and their attributes may differ between themes. Use this as a guide for your intuition
 
-## Highlights.css
-
-
+## Sample Highlights
+<img src="https://user-images.githubusercontent.com/89298319/164319636-f8059a28-bab6-4c8e-bb76-ce6cf215869c.gif" width="800">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89298319/164319680-c5f20b36-ed5b-477c-a2cb-06d0c40c47e4.gif" width="32%" />
+  <img src="https://user-images.githubusercontent.com/89298319/164319710-2ee190f8-6795-4a42-95ab-d533f7fcfa8e.gif" width="32%" /> 
+  <img src="https://user-images.githubusercontent.com/89298319/164319724-f43daee4-e813-4d71-bc36-d9fee8d93592.gif" width="32%" />
+</p>
 ## Readableline.css
 Tick RLL in the editor to see changes
 ![image](https://user-images.githubusercontent.com/89298319/164212194-029ccafb-f0bc-4ed2-a9cd-462160344607.png)
@@ -21,4 +25,3 @@ syncing checkboxes. credit: DeathAU
 
 ## Scrollablepane.css
 ![scroll](https://user-images.githubusercontent.com/89298319/164219932-1e1a52ab-d496-4065-8fd6-80d7a38054ba.gif)
-
