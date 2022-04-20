@@ -1,0 +1,89 @@
+div.workspace-split.mod-root > div.workspace-split.mod-vertical {
+    overflow: auto;
+}
+div.workspace-split.mod-root div.workspace-split.mod-vertical > div.workspace-leaf {
+    min-width: 500px;
+}
+
+/* Splitting sidebar individual pane horizontally */
+div.workspace-split.mod-root div.workspace-split.mod-vertical > div.workspace-split.mod-horizontal {
+    min-width: 1000px;
+    height: calc(100% - 1px);
+    overflow: auto;
+}
+div.workspace-split.mod-root div.workspace-split.mod-vertical > div.workspace-split.mod-horizontal > hr.workspace-leaf-resize-handle {
+    height: calc(100% - 1px);
+}
+div.workspace-split.mod-root div.workspace-split.mod-vertical > div.workspace-split.mod-horizontal > div.workspace-leaf {
+    min-height: 1130px;
+}
+
+/* Splitting to scroll main window horizontally */
+div.workspace-split.mod-root > div.workspace-split.mod-horizontal {
+    overflow: auto;
+}
+div.workspace-split.mod-root > div.workspace-split.mod-horizontal > hr.workspace-leaf-resize-handle {
+    height: calc(100% - 1px);
+}
+div.workspace-split.mod-root > div.workspace-split.mod-horizontal > div.workspace-leaf {
+    min-height: 1100px;
+}
+
+/* Horizontal Direction */
+div.workspace-split.mod-root > div.workspace-split.mod-horizontal > div.workspace-split.mod-vertical {
+    overflow: auto;
+    min-height: 1100px;
+}
+
+/* css for the workspaceplus*/
+.workspaces-plus-modal.quick-switch {
+padding: 15px 30px;
+border-radius: 5px;
+min-width: 13em;
+}
+
+.workspaces-plus-moda.quick-switch .workspace-item {
+padding-left: 2em;
+padding-right: 4em;
+font-size: 0.9em;
+}
+
+.workspaces-plus-modal.quick-switch .prompt-results {
+padding-top: 10
+}
+
+.workspaces-plus-modal.quick-switch .prompt-results::-webkit-scrollbar {
+display: none;
+}
+
+.workspaces-plus-modal.quick-switch .workspace-results {
+padding: 0px;
+}
+
+.workspaces-plus-modal.quick-switch .workspace-item.is-selected {
+border-radius: 0px !important;
+}
+
+.workspaces-plus-modal.quick-switch input.prompt-input {
+font-size: 0.9em;
+padding: 1px 1em;
+border-top-left-radius: 5px !important;
+border-top-right-radius: 5px !important;
+border-radius: 0px;
+border: none !important;
+border-bottom: 1px solid var(--background-modifier-border) !important;
+}
+
+.workspaces-plus-modal.quick-switch input.prompt-input:focus {
+box-shadow: none;
+border: none !important;
+border-bottom: 1px solid var(--background-modifier-border) !important;
+}
+
+.workspaces-plus-modal.quick-switch .delete-workspace {
+right: 0.7em !important;
+}
+
+.workspaces-plus-modal.quick-switch .rename-workspace {
+right: 2em !important;
+}
