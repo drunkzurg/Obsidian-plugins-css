@@ -1,0 +1,23 @@
+/*status bar opacity & data may differ from themes*/
+.status-bar, .is-translucent .status-bar {
+    border: 2px !important;
+    border-radius: 3px;
+}
+    	
+.status-bar-item.plugin-word-count {
+  display: none;      /*the better word counter plgin replaces it*/
+}
+.status-bar-item.plugin-obsidian-statusbar-pomo.statusbar-pomo.statusbar-pomo-logging {
+  order: -2;
+}
+.status-bar-item.plugin-obsidian-day-planner{
+  order: -1;
+}
+body:not(.persistent-sb) .status-bar, body:not(.persistent-sb) .is-translucent .status-bar, body:not(.persistent-sb) .is-translucent .status-bar:hover {
+    opacity: 1;
+    border: 1px solid var(--background-modifier-morder);
+    background-color: var(--background-nord);
+}
+.status-bar-item {
+ font-size: 0.8em;
+}
