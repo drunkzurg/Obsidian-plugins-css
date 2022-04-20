@@ -1,4 +1,8 @@
 >The elements and their attributes may differ between themes. Use this as a guide for your intuition
+
+## Highlights.css
+
+
 ## Readableline.css
 Tick RLL in the editor to see changes
 ![image](https://user-images.githubusercontent.com/89298319/164212194-029ccafb-f0bc-4ed2-a9cd-462160344607.png)
@@ -10,3 +14,11 @@ A positive integer pushes the element to the left and negative to the right. 0 i
 ![image](https://user-images.githubusercontent.com/89298319/164197042-a85a5a81-b6af-4653-bd88-c1be14c3d6e3.png)
 ![image](https://user-images.githubusercontent.com/89298319/164196778-d2071949-0392-4752-b073-8dd43be8e216.png)
 ![image](https://user-images.githubusercontent.com/89298319/164196825-1a9eccd4-27b2-43dc-bfc1-ebf1298bc9e9.png)
+
+## Inlineblocks.css
+syncing checkboxes. credit: DeathAU 
+![image](https://user-images.githubusercontent.com/89298319/164217642-c5f4737d-3d1d-4e5a-90f9-487fbb7b0f3e.png)
+
+## Scrollablepane.css
+![scroll](https://user-images.githubusercontent.com/89298319/164219932-1e1a52ab-d496-4065-8fd6-80d7a38054ba.gif)
+
