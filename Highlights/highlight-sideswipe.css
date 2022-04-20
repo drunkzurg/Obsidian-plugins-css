@@ -1,0 +1,17 @@
+.markdown-preview-view mark,
+.cm-s-obsidian span.cm-highlight {
+    font-weight: normal;
+    color: #3181C1;
+    background-color: #434C5E1b;
+    background-image: linear-gradient(0deg,orange,orange);
+    background-position: left 0;
+    background-repeat: no-repeat;
+    background-size: 2px 100%;
+    border-radius: 0px;
+    transition: background 500ms ease;
+}
+.markdown-preview-view mark:hover {
+    background-size: 100% 100%;
+    color: #434C5E;
+    cursor: default;
+}

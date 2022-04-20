@@ -1,0 +1,51 @@
+.markdown-preview-view mark,
+.cm-s-obsidian span.cm-highlight {
+    font-weight: normal;
+    color: --text-highlight-color;
+    background-color: #434C5E1b;
+    background-image: linear-gradient(0deg,pink,pink);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 2px;
+    border-radius: 2px;
+    transition: background 200ms ease;
+}
+.markdown-preview-view mark:hover,
+.cm-s-obsidian span.cm-highlight:hover {
+    background-size: 100% 100%;
+    color: #3181C1;
+    cursor: default;
+}
+
+
+
+
+/*
+
+.markdown-preview-view mark,
+.cm-s-obsidian span.cm-highlight {
+    font-weight: normal;
+    color: black;
+    background-color: transparent;
+    background-image: linear-gradient(120deg,green,blue);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 3px;
+    transition: background 400ms ease;
+}
+
+.markdown-preview-view mark:hover,
+.cm-s-obsidian span.cm-highlight:hover {
+    background-size: 100% 100%;
+    color: black;
+}
+
+
+.markdown-preview-view mark {
+    color: var(--text-highlight-color);
+    font-weight: inherit;
+    background-color: #8430f090;
+    border-radius: 1px;
+
+    background: url("");
+*/

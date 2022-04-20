@@ -1,0 +1,18 @@
+.markdown-preview-view mark,
+.cm-s-obsidian span.cm-highlight {
+    font-weight: normal;
+    color: #3181C1;
+    background-color: #434C5E1b;
+    background-image: url("https://art.pixilart.com/0fe65fb08e889f4.gif");
+    background-position: 100 0;
+    background-repeat: no-repeat;
+    background-size: 0px 100%;
+    border-radius: 0px;
+    transition: background 1000ms ease-in;
+}
+.markdown-preview-view mark:hover {
+    font-weight: bold;
+    background-size: 100% 100%;
+    color: #800080;
+    cursor: default;
+}
