@@ -1,6 +1,6 @@
 >The elements and their attributes may differ, use this to guide for your intuition.
 
-## [Highlights](https://github.com/drunkzurg/stylesheets-et-plugins/tree/main/Dynamic-highlights) Showcase
+## Pure Css [Highlights](https://github.com/drunkzurg/stylesheets-et-plugins/tree/main/Dynamic-highlights) Showcase
 <p align="center">
 <img src="https://user-images.githubusercontent.com/89298319/164319636-f8059a28-bab6-4c8e-bb76-ce6cf215869c.gif" width="96%">
   <img src="https://user-images.githubusercontent.com/89298319/164319680-c5f20b36-ed5b-477c-a2cb-06d0c40c47e4.gif" width="32%" />
