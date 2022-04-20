@@ -1,5 +1,5 @@
-## A status bar tweaks
-*The elements and their attributes bay differ between themes.*
+## status bar tweaks
+*The elements and their attributes may differ between themes.*
 
 The placement of elements are dentoed by the "order" attribute;
 
