@@ -1,0 +1,9 @@
+/* For editor mode column width */
+.markdown-source-view.is-readable-line-width .CodeMirror{
+  max-width: 900px;
+}
+
+/* For preview mode column width */
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: 900px;
+}
