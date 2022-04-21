@@ -1,4 +1,31 @@
-p:first-child::first-letter{
+  .dcap {
+    float: left;
+    line-height: 85%;
+    width: 0.6em;
+    font-size: 450%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #d87093;
+    background-image: linear-gradient(0deg,#f2d3d8,#f2d3d8);
+    background-position: 0% 0%;
+    background-repeat: no-repeat;
+    background-size: 0.08em 50%;
+    border-radius: 0px;
+    transition: background 500ms ease-in-out;
+
+  }
+
+.dcap:hover {
+    background-size: 60% 100%;
+    color: #f2d3d8;
+    background-image: linear-gradient(0deg,#d87093,#d87093);
+    font-weight: bolder;
+    cursor:default;
+    background-position: 50% 0%;
+}
+
+/*
+colors: teal 2eaba9
+p:first-child:first-letter{
     color:#FF955E;
     font-weight: bold;
     font-size: 50px;
@@ -8,3 +35,4 @@ p:first-child::first-letter{
     margin-top: -3px;
     padding-bottom: 1px;
 }
+*/
