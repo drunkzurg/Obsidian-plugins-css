@@ -1,5 +1,5 @@
 >The elements and their attributes may differ, use this to guide for your intuition.
-@lofti lofi#0924 @Agnieszka#9549 @Murautilis#9548 @mufcz#0573 @dessstarfinn#8153 @Lumine#5849
+
 ## Pure Css [Highlights](https://github.com/drunkzurg/stylesheets-et-plugins/tree/main/Dynamic-highlights) Showcase
 <p align="center">
 <img src="https://user-images.githubusercontent.com/89298319/164319636-f8059a28-bab6-4c8e-bb76-ce6cf215869c.gif" width="96%">
