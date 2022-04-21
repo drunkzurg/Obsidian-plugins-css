@@ -1,0 +1,10 @@
+p:first-child::first-letter{
+    color:#FF955E;
+    font-weight: bold;
+    font-size: 50px;
+    float: left;
+    line-height: 50px;
+    padding-right: 8px;
+    margin-top: -3px;
+    padding-bottom: 1px;
+}
