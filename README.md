@@ -1,5 +1,5 @@
 >The elements and their attributes may differ, use this to guide for your intuition.
-
+@lofti lofi#0924 @Agnieszka#9549 @Murautilis#9548 @mufcz#0573 @dessstarfinn#8153 @Lumine#5849
 ## Pure Css [Highlights](https://github.com/drunkzurg/stylesheets-et-plugins/tree/main/Dynamic-highlights) Showcase
 <p align="center">
 <img src="https://user-images.githubusercontent.com/89298319/164319636-f8059a28-bab6-4c8e-bb76-ce6cf215869c.gif" width="96%">
@@ -7,6 +7,12 @@
   <img src="https://user-images.githubusercontent.com/89298319/164319710-2ee190f8-6795-4a42-95ab-d533f7fcfa8e.gif" width="32%" /> 
   <img src="https://user-images.githubusercontent.com/89298319/164319724-f43daee4-e813-4d71-bc36-d9fee8d93592.gif" width="32%" />
 </p>
+
+## Dropcap.css
+enclose the letter to be "dropped" with span:
+>\<span class="dcap">**C**\</span>**arol**
+
+<img src="https://user-images.githubusercontent.com/89298319/164508453-cf78070b-317a-4d48-8a00-31488b7929e3.gif" width="32%" /><img src="https://user-images.githubusercontent.com/89298319/164508470-45764b09-486c-4096-8acf-801dae61b2f5.gif" width="32%" />
 
 ## Statusbar.css
 The placement of elements are dentoed by the "order" attribute;
