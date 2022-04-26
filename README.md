@@ -16,7 +16,7 @@ enclose the letter to be "dropped" with span:
 <img src="https://user-images.githubusercontent.com/89298319/164508453-cf78070b-317a-4d48-8a00-31488b7929e3.gif" width="32%" /><img src="https://user-images.githubusercontent.com/89298319/164508470-45764b09-486c-4096-8acf-801dae61b2f5.gif" width="32%" />
 
 ## Statusbar.css
-The placement of elements are dentoed by the "order" attribute;
+The placement of elements are denoted by the "order" attribute;
 A positive integer pushes the element to the right and negative to the left. 0 is the default state and is dictated by the plugin author.
 ![image](https://user-images.githubusercontent.com/89298319/164197042-a85a5a81-b6af-4653-bd88-c1be14c3d6e3.png)
 ![image](https://user-images.githubusercontent.com/89298319/164196778-d2071949-0392-4752-b073-8dd43be8e216.png)
